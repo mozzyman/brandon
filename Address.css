@@ -1,5 +1,7 @@
 body{
-                background-image:url("E:/sunset-1207326_960_720.jpg");
+                background-image:url('Images/sunset-1207326_960_720.jpg');
+		background-size: 100%;
+		background-repeat: no-repeat;
             }
             h1{
                 text-align:center;
